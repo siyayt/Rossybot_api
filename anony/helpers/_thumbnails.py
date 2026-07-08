@@ -168,7 +168,7 @@ class Thumbnail:
 
             draw.text(
                 (560, 120),
-                "TEAM-ROCKY",
+                "RAJA-BABU",
                 font=self.font3,
                 fill=(220,220,220)
             )
