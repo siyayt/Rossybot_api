@@ -22,8 +22,8 @@ class Config:
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rossy_music_world")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Aurosupport")
+        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/StylishNameFont")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+aUamAA43_p4xMWE1")
 
         self.API_URL = getenv("API_URL", "https://api.onegrab.fun")
         self.API_KEY = getenv("API_KEY", "fbee25_x8FqJTStnOF5Ry5vGzMXTbR8zmuJ0H29") # Get this value from @FallenApiBot by sending /apikey
